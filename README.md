@@ -125,3 +125,27 @@ Hasil:
 
 ## Nomer 4
 ### 4.a
+```bash
+empat.a = dchisq(2, v <- 10)
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162625977-615030d3-b99d-428b-a897-3b14bf46f850.png)
+
+### 4.b
+```bash
+hist(rchisq(100, v), main = "Histogram Chi-Square 4 B")
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626026-a340c616-8a0f-4a3e-81ba-5013c0753d04.png)
+
+### 4.c
+```bash
+empat.c.rataan = v
+empat.c.variansi = 2 * v
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626061-1df936f7-668f-489d-97e7-1ab0f032a75b.png)
+
