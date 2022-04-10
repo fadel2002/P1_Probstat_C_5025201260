@@ -1,6 +1,8 @@
 # P1_Probstat_C_5025201260
 Nama  : Fadel Pramaputra Maulana
+
 NRP   : 5025201260
+
 Kelas : Probstat C
 
 ## Nomer 1
