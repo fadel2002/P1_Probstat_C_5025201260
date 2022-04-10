@@ -13,4 +13,4 @@ l
 tiga.b.l
 
 # d
-tiga.d.rataRata = tiga.d.var = l
+tiga.d.rataan = tiga.d.var = l
