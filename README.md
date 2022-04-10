@@ -32,7 +32,7 @@ Hasil:
 ![image](https://user-images.githubusercontent.com/72655591/162624849-a7593b38-a2ce-4505-844a-5fb2673e83d0.png)
 
 Didapat kesimpulan bahwa peluang penyurvei bertemu 3 orang sebelum keberhasilan pertama dapat dihitung dengan 
-fungsi probabilitas distribusi geometrik
+fungsi probabilitas distribusi geometrik.
 
 ### 1.d
 ```bash
@@ -83,23 +83,45 @@ Hasil:
 ```bash
 tiga.a = dpois(n <- 6, l <- 4.5)
 ```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162625721-cf3c2e1b-5ccd-4117-a184-64cc0a303c6a.png)
 
 ### 3.b
 ```bash
 tiga.b.l = mean(rpois(356, l))
 ```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162625749-19296b50-e972-4b72-b79f-de788bcb8684.png)
 
 ```bash
 hist(rpois(356, l), main = "Histogram Poisson 3 B")
 ```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162625783-f2279413-f9dc-4e92-9735-e7d337a08cf2.png)
+
 
 ### 3.c
 ```bash
 l
 tiga.b.l
 ```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162625803-821e3db3-92a3-41f9-a5b6-53073f8fcc7b.png)
+
+Didapat kesimpulan bahwa peluang 6 bayi lahir dirumah sakit saat rata rata historis lahir disuatu rumah sakit ialah 4,5 
+dapat dihitung dengan distribusi possion.
 
 ### 3.d
 ```bash
 tiga.d.rataan = tiga.d.var = l
 ```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162625917-f2b34ef1-79bb-4262-ac43-d36b5d5f8d7c.png)
+
+## Nomer 4
+### 4.a
