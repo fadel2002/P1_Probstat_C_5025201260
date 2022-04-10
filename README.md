@@ -149,3 +149,54 @@ Hasil:
 
 ![image](https://user-images.githubusercontent.com/72655591/162626061-1df936f7-668f-489d-97e7-1ab0f032a75b.png)
 
+## Nomer 5
+Untuk generate angka random
+```bash
+set.seed(1)
+```
+### 5.a
+```bash
+r = rexp(1, l <- 3)
+lima.a= dexp(r, l)
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626182-080e6d64-6f12-4893-9c5a-ee53085c404d.png)
+
+### 5.b
+```bash
+hist(rexp(10, l))
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626221-6c725b9f-76fb-4ad9-9326-5755471ca5a4.png)
+
+```bash
+hist(rexp(100, l))
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626255-6a7948ae-57e7-4514-9713-12d1b3a3de28.png)
+
+```bash
+hist(rexp(1000, l))
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626272-10ed1ae6-6171-4c34-85a9-09e92962eab5.png)
+
+```bash
+hist(rexp(10000, l))
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626299-ec531053-6bcb-41ee-965e-7eb3a29cd4a4.png)
+
+### 5.c
+```bash
+lima.c.rataan <- 1/l
+lima.c.variansi <- 1/(l^2)
+```
+Hasil:
+
+![image](https://user-images.githubusercontent.com/72655591/162626347-fe467f01-bc53-4267-9aa0-4b55e1240c25.png)
