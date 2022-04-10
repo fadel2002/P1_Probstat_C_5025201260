@@ -113,7 +113,7 @@ Hasil:
 ![image](https://user-images.githubusercontent.com/72655591/162625803-821e3db3-92a3-41f9-a5b6-53073f8fcc7b.png)
 
 Didapat kesimpulan bahwa peluang 6 bayi lahir dirumah sakit saat rata rata historis lahir disuatu rumah sakit ialah 4,5 
-dapat dihitung dengan distribusi possion.
+dapat dihitung dengan distribusi poisson.
 
 ### 3.d
 ```bash
