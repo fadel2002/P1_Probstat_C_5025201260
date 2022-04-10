@@ -101,5 +101,5 @@ tiga.b.l
 
 ### 3.d
 ```bash
-tiga.d.rataRata = tiga.d.var = l
+tiga.d.rataan = tiga.d.var = l
 ```
