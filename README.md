@@ -81,5 +81,25 @@ Hasil:
 ## Nomer 3
 ### 3.a
 ```bash
+tiga.a = dpois(n <- 6, l <- 4.5)
+```
 
+### 3.b
+```bash
+tiga.b.l = mean(rpois(356, l))
+```
+
+```bash
+hist(rpois(356, l), main = "Histogram Poisson 3 B")
+```
+
+### 3.c
+```bash
+l
+tiga.b.l
+```
+
+### 3.d
+```bash
+tiga.d.rataRata = tiga.d.var = l
 ```
